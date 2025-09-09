@@ -1,0 +1,9 @@
+# Changed and uncommented options only.
+
+Port 44916
+PermitRootLogin no
+PubkeyAuthentication yes
+AuthorizedKeysFile	.ssh/authorized_keys .ssh/authorized_keys2
+PasswordAuthentication no
+PrintMotd yes
+
